@@ -1,0 +1,40 @@
+[
+  {
+    "pillar": "sonnets",
+    "id": "55555555-5555-4555-8555-555555555555",
+    "title": "Interstellar",
+    "slug": "interstellar",
+    "series": "A Fever Dream",
+    "tags": [
+      "heartbreak",
+      "grief",
+      "love",
+      "loss"
+    ],
+    "status": "draft",
+    "created_at": "2025-08-27T00:00:00Z",
+    "last_used": null,
+    "subtitle": "A poem about letting go",
+    "body": "i don’t like space.\n\nit left a black hole,\nthe void is pulling me in.\nit’s only there i can see you,\nbut you don’t let me in.\n\nit’s lonely in here,\nbut once i get out\nthe timelines have shifted,\nand you i’d be without.",
+    "mood": "haunting",
+    "image": null,
+    "quoteable_moment": "i don’t like space.",
+    "context": "“A Fever Dream” validates the intense and conflicting emotions experienced by those who have loved and lost; who are often left questioning their own sense of reality. While the primary theme of the collection is grieving heartbreak, secondary themes explore codependency, insecure attachment styles and self-actualization. The collection is divided into four sections: Memories, Healing, Goodbye, and Aftermath. Each section represents a stage of the grieving process: denial, bargaining/depression, anger and acceptance. Meanwhile, the sequencing of the poems and the content of the poems themselves, reflect how nonlinear the grieving process can be with stages experienced out of order and all at once. The collection of poems offers validation for those experiencing heartbreak and promises a path to eventual self-growth, self-love and forgiveness.",
+    "_source_path": "content/sonnets/2025-08-27-interstellar.json"
+  },
+  {
+    "pillar": "sonnets",
+    "id": "33333333-3333-4333-8333-333333333333",
+    "title": "Sample Sonnets Post",
+    "slug": "sample-sonnets-post",
+    "series": "A Fever Dream",
+    "tags": [
+      "night"
+    ],
+    "status": "draft",
+    "created_at": "2025-08-26T20:42:00Z",
+    "last_used": null,
+    "body": "Hello world — Sonnets.",
+    "_source_path": "content/sonnets/2025-08-26-sample-sonnets-post.json"
+  }
+]
